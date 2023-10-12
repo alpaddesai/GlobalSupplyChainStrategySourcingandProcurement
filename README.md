@@ -6,3 +6,5 @@ Confidential information is not displayed.
 
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
