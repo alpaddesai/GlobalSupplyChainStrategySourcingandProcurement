@@ -1,6 +1,7 @@
 # Information Technology Digital Transformation Strategy
 
-This repository provides an custom individual project on a digital transformation strategy. 
+This repository provides an custom individual project on a digital transformation strategy in supply chain 
+domain
 
 Confidential information is not displayed.
 
