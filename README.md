@@ -1,4 +1,4 @@
-# Information Technology Digital Transformation Strategy and Supply Chain Management
+# Global Supply Chain Strategy, Sourcing and Procurement
 
 This repository provides an custom individual project on a digital transformation strategy in supply chain 
 domain
