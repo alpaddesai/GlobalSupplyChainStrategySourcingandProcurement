@@ -1,4 +1,4 @@
-# IT Digital Transformation Strategy
+# Information Technology Digital Transformation Strategy
 
 This repository provides an custom individual project on a digital transformation strategy. 
 
