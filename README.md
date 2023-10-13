@@ -1,9 +1,9 @@
 # Global Supply Chain Strategy, Sourcing and Procurement
 
 This repository provides an custom individual project on a digital transformation strategy in supply chain 
-domain
+domain. Confidential information is not displayed.
 
-Confidential information is not displayed.
+Additional details reference: https://github.com/alpaddesai/CodingCombinatorialOptimization, https://github.com/alpaddesai/OperationsResearch and  https://github.com/alpaddesai/Algorithms, 
 
 ## Ethics and Excellence 
 ![image](EthicsandExcellence.png)
