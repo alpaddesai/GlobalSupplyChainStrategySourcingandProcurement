@@ -3,6 +3,20 @@
 This repository provides an custom individual project on a digital transformation strategy in supply chain 
 domain. Confidential information is not displayed.
 
+## Supply Chain
+![image](Slide1.jpg)
+
+## Supply Chain
+![image](Slide2.jpg)
+
+## Supply Chain
+![image](Slide3.jpg)
+
+## Supply Chain
+![image](Slide4.jpg)
+
+## Supply Chain
+![image](Slide5.jpg)
 
 ## Ethics and Excellence 
 ![image](EthicsandExcellence.png)
