@@ -4,19 +4,19 @@ This repository provides an custom individual project on a digital transformatio
 domain. Confidential information is not displayed.
 
 ## Supply Chain
-![image](Slide1.jpg)
+![image](Slide1.JPG)
 
 ## Supply Chain
-![image](Slide2.jpg)
+![image](Slide2.JPG)
 
 ## Supply Chain
-![image](Slide3.jpg)
+![image](Slide3.JPG)
 
 ## Supply Chain
-![image](Slide4.jpg)
+![image](Slide4.JPG)
 
 ## Supply Chain
-![image](Slide5.jpg)
+![image](Slide5.JPG)
 
 ## Ethics and Excellence 
 ![image](EthicsandExcellence.png)
