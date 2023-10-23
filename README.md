@@ -1,7 +1,7 @@
 # Global Supply Chain Strategy, Sourcing and Procurement
 
-This repository provides an custom individual project on a digital transformation strategy in supply chain 
-domain. Confidential information is not displayed.
+This repository provides an custom academic individual project on a digital transformation strategy in supply chain 
+domain. Confidential information is not displayed.  Reference https://globaledge.msu.edu/ and https://nasbite.org/
 
 ## Supply Chain
 ![image](Slide1.JPG)
